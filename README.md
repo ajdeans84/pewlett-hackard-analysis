@@ -3,6 +3,19 @@
 ## Project Overview
 We are helping Bobby, an HR analysis working at Pewlett-Hackard (PH), examine the number of potential job openings in the company by looking at the number of employees eligible for retirement. We can also count the number of employees that hold particular positions, as well as the number of slightly younger employees who may be eligible to be mentors for PH's new hires, to ensure we have a peaceful transition after these employees retire.  
 
+## Resources
+- Data files:
+    - departments.csv
+    - dept_emp.csv
+    - dept_manager.csv
+    - employees.csv
+    - salries.csv
+    - titles.csv
+- Software:
+    - pgAdmin4 5.7
+    - Visual Studio Code 1.61.0
+    - Microsoft Excel 365 v2110
+
 ## Results
 There are several conclusions based on the two deliverables. Some major points include;
 
