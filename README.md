@@ -9,9 +9,9 @@ There are several conclusions based on the two deliberables. Some major points i
 - Point 1
 
 - Our first search for employees eligible for retirement resulted in a table of over 133,000 results. However, as we can see from this image, there are employees listed more than once, as each job title they have held returned a separate result. 
-
+<p align="center">
 ![multiples](Images/multiples.png)
-
+</p>
 As there were 133,376 positions listed, but only 90,398 unique employees on the same list, we can summarize that employees at PH born between 1952 and 1955 had an average of 1.5 positions within the company. Many of these roles involve adding "Senior" to their job title (instead of truly changing positions), so we can summarize that most employees at Pewlett-Hackard stay in their role for most of their career, and do not change roles often. 
 
 - Point 3
