@@ -4,11 +4,16 @@
 We are helping Bobby, an HR analysis working at Pewlett-Hackard (PH), examine the number of potential job openings in the company by looking at the number of employees eligible for retirement. 
 
 ## Results
-/bulleted list with four major points from two deliverables, use images as support
 There are several conclusions based on the two deliberables. Some major points include;
 
 - Point 1
-- Point 2
+
+- Our first search for employees eligible for retirement resulted in a table of over 133,000 results. However, as we can see from this image, there are employees listed more than once, as each job title they have held returned a separate result. 
+
+![multiples](Images/multiples.png)
+
+As there were 133,376 positions listed, but only 90,398 unique employees on the same list, we can summarize that employees at PH born between 1952 and 1955 had an average of 1.5 positions within the company. Many of these roles involve adding "Senior" to their job title (instead of truly changing positions), so we can summarize that most employees at Pewlett-Hackard stay in their role for most of their career, and do not change roles often. 
+
 - Point 3
 - Point 4 
 
